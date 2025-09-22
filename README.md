@@ -57,6 +57,11 @@ Open the notebook:
 jupyter notebook Task-01.ipynb
 Run all cells to reproduce preprocessing steps
 
+📌 Dataset
+
+The dataset can be downloaded from Kaggle:
+👉 Titanic Dataset – Kaggle
+
 📚 Key Learnings / Outcomes
 
 -Techniques for handling missing data using imputation
