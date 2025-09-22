@@ -62,6 +62,41 @@ Run all cells to reproduce preprocessing steps
 The dataset can be downloaded from Kaggle:
 👉 Titanic Dataset – Kaggle
 
+📖 Internship Q&A (Theory)
+
+1. Types of Missing Data
+MCAR: Missing Completely at Random
+MAR: Missing at Random
+MNAR: Missing Not at Random
+
+2. Handling Categorical Variables
+Label Encoding (for ordinal features).
+One-Hot Encoding (for nominal features).
+
+3. Normalization vs Standardization
+Normalization → Rescales to [0,1].
+Standardization → Mean = 0, Std = 1.
+
+4. Outlier Detection
+Boxplots, Z-score, IQR method.
+
+5. Why Preprocessing is Important
+Improves data quality.
+Reduces bias.
+Enhances model accuracy.
+
+6. One-Hot vs Label Encoding
+One-Hot → separate columns, no ordinal bias.
+Label → assigns integers, may falsely imply order.
+
+7. Handling Class Imbalance
+Oversampling/Undersampling.
+SMOTE.
+Class weights.
+
+8. Can Preprocessing Affect Accuracy?
+Yes — proper handling of missing values, scaling, and encoding can significantly improve model performance.
+
 📚 Key Learnings / Outcomes
 
 -Techniques for handling missing data using imputation
