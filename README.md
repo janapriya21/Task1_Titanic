@@ -44,6 +44,19 @@ Contents of requirements.txt:
     seaborn
     scikit-learn
 
+▶️ How to Run
+
+Clone the repository:
+git clone https://github.com/janapriya21/Task1_Titanic.git
+cd Task1_Titanic
+
+Install dependencies:
+pip install -r requirements.txt
+
+Open the notebook:
+jupyter notebook Task-01.ipynb
+Run all cells to reproduce preprocessing steps
+
 📚 Key Learnings / Outcomes
 
 -Techniques for handling missing data using imputation
